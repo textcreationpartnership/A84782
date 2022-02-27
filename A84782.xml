@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discovery of some fruits of the profession religion ministry government of this nation, which maketh the land to mourne, and vexeth the soule of the righteous from day to day. Also the relation of the world discovered, and wherein it differs from the pure relation. With a few words to the magistrates that doe cast Christ into prison, and will not visit him when they have done, nor suffer his friends and brethren to visit him.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84782</idno>
+            <idno type="STC">Wing F1795aA</idno>
+            <idno type="STC">Thomason E863_6</idno>
+            <idno type="STC">ESTC R36507</idno>
+            <idno type="EEBO-CITATION">99872447</idno>
+            <idno type="PROQUEST">99872447</idno>
+            <idno type="VID">168357</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84782)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168357)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 130:E863[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discovery of some fruits of the profession religion ministry government of this nation, which maketh the land to mourne, and vexeth the soule of the righteous from day to day. Also the relation of the world discovered, and wherein it differs from the pure relation. With a few words to the magistrates that doe cast Christ into prison, and will not visit him when they have done, nor suffer his friends and brethren to visit him.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Simmons at the Bull &amp; mouth near Aldersgate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to George Fox.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>The words "profession .. government" are enclosed in brackets on title page.</note>
+                  <note>Annotation on Thomason copy: "Jan: 14 1655".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Persecution --  England --  Early works to 1800.</term>
+               <term>Freedom of religion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168357:1" rendition="simple:additions"/>
+            <head>A DISCOVERY Of ſome fruits OF The
+<list>
+                  <item>Profeſſion</item>
+                  <item>Religion</item>
+                  <item>Miniſtry</item>
+                  <item>Government</item>
+               </list> of this <hi>NATION, Which maketh the Land to mourne, and vexeth the ſoule of the Righteous from day to day.</hi>
+            </head>
+            <head type="sub">Alſo the Relation of the world diſcovered, and wherein it differs from the pure Relation.</head>
+            <head type="sub">With a few words to the Magiſtrates that doe caſt Chriſt into priſon, and will not viſit him when they have done, nor ſuffer his friends and brethren to viſit him.</head>
+            <p>OH how doth the Profeſſion, Religion, and Miniſtry, and Government of this Nation ſhame it ſelfe, that drunkenneſſe, oaths, and curſing is heard in the ſtreets, which cauſeth the Land to mourne, and deſtroys the creatures of the Lord, and ſuch the Lord commands his ſervants, and children, to reprove, and they are made a prey upon who reprove in the Gate, ſin and evill, drun<g ref="char:EOLhyphen"/>kenneſſe, curſing and ſwearing, which is heard up and down the ſtreets, by their faith, by their troth, and many other oathes, when the creatures of God croſſe their will they will bid a pox on them, and ſwear, as Gods wounds, and theſe curſed languages, curſed ſpeakers, for
+<pb n="2" facs="tcp:168357:2"/>reproving ſuch the children of God are hated and perſe<g ref="char:EOLhyphen"/>cuted by them that ſhould puniſh evill doers; here juſtice falls in the ſtreets, and righteouſneſſe is ſtopt for running down, for the cry of righteouſneſſe is ſpoken againſt, for when the cry of righteouſneſſe is ſounded in the ſtreets a<g ref="char:EOLhyphen"/>gainſt unrighteouſneſſe, againſt drunkenneſſe, againſt de<g ref="char:EOLhyphen"/>ceitfull merchandize, cozening and cheating, they are ſent to priſon as peace-breakers; and when they cry in the ſtreets againſt oaths, that the Covenant of light might be received, and to turne from their oaths unto him who ſaith, <hi>Swear not at all</hi> (which cauſe the Land to mourne) ſuch are caſt into Priſons, and becauſe they cannot ſwear but abide in the Covenant of light and life, which ſaith, <hi>Swear not at all.</hi> And now is the cry at midnight among all the profeſſions in the world, and now is all profeſſion ſeen and Religion ſeen to be in the night, it is midnight with it: and now is the voyce cryed among you, that ſaith. All fleſh is graſſe, and ſhall wither and fade as the flower, and God will ſtaine the glory of man and lay the Crowns in the duſt, and bring the honour into contempt, for the end of Religion and Profeſſion is ſeen to be without the life of what they doe profeſſe, for what mocking ſcorning, reproaching, plotting and inventing againſt them that be the children of light, who be in the poſſeſſion and the life of the Scripture, what hallowing and ſhouting there is a<g ref="char:EOLhyphen"/>gainſt them in the ſtreets, which is unbeſeemly, and how do the people manifeſt that they are ill bred, and how doe the people manifeſt their corrupt manners by their evill communications, as let the ſtreets and the high wayes wit<g ref="char:EOLhyphen"/>neſſe; but how is youth run into wantonneſſe which ſhould be kept in ſoberneſſe, and ancient people how are they turned into fooliſhneſſe, and ſhame themſelves, and the breeding of their children, which ſhould be trained up in modeſty and ſoberneſſe and the fear of the Lord, and they themſelves walk in gravity adorned with meek and quiet ſpirits, which is with the Lord of great price: O how can you but expect Gods judgements to come upon you, and his wrath to be turned againſt you, and his fury,
+<pb n="3" facs="tcp:168357:2"/>who with your lips profeſſe him, but your hearts be found afar off, and his life in practiſe deny; where will you ſtand in the day of Judgement, for you that be wicked will be as the chaffe, who in words profeſſe God, but in works deny him. Was it ever in any age as it is now, men that profeſſe the Kingdome of Chriſt, and of God, and yet cannot indure to have the Kingdome of Satan to be cryed againſt, to have pride cryed againſt openly, works of darkneſſe cryed againſt openly, pleaſures cryed againſt openly, drunkenneſſe cryed againſt openly, oppreſſion cryed againſt openly, that which is not juſt, not holy, not good, cryed againſt openly, and deceitfull merchandiſe in the markets, and lying, cryed againſt openly, and fighting, quarrelling, oathes and curſed ſpeaking, cryed againſt o<g ref="char:EOLhyphen"/>penly, which Chriſt cryed openly againſt, and ſaid, <hi>Swear not at all,</hi> whoſe Kingdome is not of this world, and teſti<g ref="char:EOLhyphen"/>fied againſt the world that the works thereof are evill, therefore they hated him; and now men profeſſe his king<g ref="char:EOLhyphen"/>dome, and yet cannot indure theſe things to be cryed a<g ref="char:EOLhyphen"/>gainſt; and Deceivers, and blinde guides, cryed againſt o<g ref="char:EOLhyphen"/>penly, they cannot indure, as Chriſt did, <hi>Mat.</hi> 23. and falſe Teachers to be cryed againſt openly, or writ againſt openly, as <hi>Peter</hi> and <hi>Jude</hi> did, and as the Prophets <hi>Jere<g ref="char:EOLhyphen"/>miah, Iſaiah, Micha,</hi> and <hi>Ezekiel</hi> did; but ſuch as are commanded of the Lord to cry againſt ſuch, and to wit<g ref="char:EOLhyphen"/>neſſe againſt ſuch, are with them that profeſſe the King<g ref="char:EOLhyphen"/>dome of Chriſt perſecuted, and caſt into holes and priſons, and yet ſhame doth not ſtrike their perſecutors in the face, but God will cover your face with ſhame, and night ſhall be upon you, and all your tinkling, and haughtineſſe, and bravery, God will bring down. O awake and tremble you careleſſe ones that are grown ſo lofty, and fear before the Lord, to make a profeſſion of his Son, which are not come to own his light, which from him doth come, and is given to you to believe, which if you doe believe, you ſhall not abide in darkneſſe, but ſhall have the light of life; but not believing in the light which is given you to believe, this is your condemnation, the light ſaith Chriſt.</p>
+            <pb n="4" facs="tcp:168357:3"/>
+            <p> Oh how doe the Teachers of the world manifeſt now their folly, and madneſſe, and their perſecuting blinde zeal, which doth incenſe the Magiſtrates to caſt the lambs of God into priſon: how doth the profeſſion of the world who profeſſe a Church, and Goſpel, and Chriſt, young men, young women, old men, old women, but now are turned ſcoffers and mockers, which ſhewes the end of their profeſſion, to be without the poſſeſſion: Oh how hath pride ſtollen away the heart of man from ſin<g ref="char:EOLhyphen"/>cerity, which carries him after toyes and fables, and af<g ref="char:EOLhyphen"/>ter faſhions and luſts of his eye, which manifeſts to be as the wild Aſſe-colt, and ſhewes to be as the wild Heifer, that ſhame and modeſty is wanting in the ſtreets, and there is inſteed of that ſcorne and deriſion. Therefore e<g ref="char:EOLhyphen"/>very one of you having a light from Chriſt the light of the world, who doth enlighten every one that cometh in<g ref="char:EOLhyphen"/>to the world, which light loving it, leads you from the ways of the world and the world, for ye cannot be Heires of two Kingdomes. And you that cannot indure that wickedneſſe ſhould be reproved in the Gate, but perſe<g ref="char:EOLhyphen"/>cute them that doe, and caſt them into priſon, you are the incouragers of evill doers, and not of that which is good; but the Lord God of glory is come and coming to exalt his Kingdome, and overthrow wickedneſſe out of its place, and give the glory to his Son, and the glory of man ſtaine and confound, and exalt his truth and his King<g ref="char:EOLhyphen"/>dome over all, which ſhall anſwer the light in every man.</p>
+            <p>
+               <hi>I am the light of the world, and doe inlighten every one that cometh into the world:</hi> Now every one of you being <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inlightned with the light that cometh from Chriſt, which light ſhews you, you ſhould not lye, tells you, you ſhould not be drunk, tells you, you ſhould not take Gods name in vaine, tells you, you ſhould not follow whoredome, which light tells you, you ſhould not cozen, nor cheat one another, nor ſwear, but keep to yea and nay in all your communications: Now with this light in you which Chriſt hath inlightned you withall, you ſee evill thoughts, and evill d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſires, and evill affections, this is the true light that doth manifeſt theſe things afore mentioned, and this
+<pb n="5" facs="tcp:168357:3"/>is the true light which doth reprove when you act thoſe things contrary to the light, which if you love the light and walk in it, you will come to learn of Chriſt, who ſaith, <hi>Learn of me from whence it comes,</hi> who inlightneth every man that cometh into the world, that all men through him might believe. Now you poor people you all are in<g ref="char:EOLhyphen"/>lightned with this light, and you all know theſe things be<g ref="char:EOLhyphen"/>fore mentioned to be contrary to the light, with the light which it manifeſteth: And you rich people and great men you have a light in you which comes from Chriſt Jeſus which ſhews you your hearts and ſin and evill, when that your hearts are groſſe and deceitfull, this light within ſhews it you, which is the light that cometh from Chriſt the true light, who lighteth every man that cometh into the world, that all men through him might beleeve, and he that beleeveth receives the Goſpel which is the power of God unto ſalvation to every one that beleeves: And every one in particular waiting in the light given to you to beleeve which cometh from Chriſt, who ſaith, <hi>Learne of me, I am the way, I am the truth, and no man cometh unto the Father but by me;</hi> here you will feel your Teacher that cannot be removed into a corner, Chriſt Jeſus, who ſaith, <hi>Learn of me; This is my beloved Son hear ye him,</hi> ſaith God: And here every one having a light from Chriſt given to you to beleeve, who ſaith, <hi>Learn of me,</hi> here is your Teacher, but if you hate this light, which from Chriſt doth come, and follow the worlds Teachers, the hireling which deceives you, and follow ſuch as the Apo<g ref="char:EOLhyphen"/>ſtles and the Prophets and Chriſt cryed againſt, as <hi>Iſaiah Jeremiah, Ezekiel,</hi> and <hi>Micha,</hi> and <hi>Peter,</hi> and <hi>Jude,</hi> and <hi>Mat.</hi> 23. as you may read, now theſe that gave forth Scripture ſay theſe are the Deceivers, and were witneſſed againſt; and Chriſt hath ſaid, <hi>Learn of me, I am the way, no man cometh unto the Father but by me,</hi> now if you hate this light, and follow the forementioned contrary to the light, this is your condemnation, the light, ſaith Chriſt; but if you love the light which is Chriſt, who ſaith, <hi>learn of me,</hi> you will find your Teacher, as you lye in your beds, and as you are in your occaſions; which will keep you to yea and nay in your communications, for whatſoever is more is evill from the light contrary to the truth.</p>
+            <pb n="6" facs="tcp:168357:4"/>
+            <p> THe Relation that ſtands in deſtroying is by the chil<g ref="char:EOLhyphen"/>dren of light denyed, all ſuch who live out of the light and out of it walk, who weare the old Garment, whoſe minds is corrupt, and hath a wiſdom and with it know not God, and hath a knowledge and with it corrupt themſelves, and hath a humility but feigned, and hath a worſhip but in the will, and hath a righteouſnes but in the ſelfe, and ſpeaks the high words but it is in the hypocriſie, and hath a liber<g ref="char:EOLhyphen"/>ty but in the fleſh, where the Spirit is in priſon, who in <hi>Cains</hi> way is gone, hath not an habitation in God whoſe affections are below in the Earth and to it, and ſerve the luſts and the pleaſures, whoſe converſation is among the wicked and there is the worlds Relation, where lodgeth the ſtrife, and debate, and deceit, and diſdain, and ſetting up that which God will throw down, now while this is ſtanding which is contrary to the light, they that in the light doe walk and be in it thoſe they deny, and ſee that which leads nature out of its courſe, which ſet the whole courſe of nature on fire, and there the whole world are in confuſion, and all the tongues are unbridled where power over them is not while that reigns that leads nature out of courſe, his Religion is vaine and that Relation ſtands out of truth, but all ſuch as to the light be turned ſee with the light, that doth manifeſt, what leadeth nature out of courſe, the marriage that is honourable and the marriage that is not honourable, and what ſets the whole courſe of nature on fire, and what leads nature into courſe, where the pure Relation the entrance of it is received, where the ſelfe and its righteouſneſſe is denyed and the righteouſneſs of Chriſt received, where the worſhip of the will is deny<g ref="char:EOLhyphen"/>ed and the worſhip of God in Spirit and truth is received, where ſelfe righteouſneſſe is denyed and Chriſt the righ<g ref="char:EOLhyphen"/>teouſneſſe of God received, and the former converſation put off and the converſation in Heaven witneſſed, and the affections below changed and the affections which are a<g ref="char:EOLhyphen"/>bove come to, here is the pure Relation known without guile, which are out of <hi>Cains</hi> way, where the habitation in God is witneſſed and ſeen, where the juſt lives by his faith,
+<pb n="7" facs="tcp:168357:4"/>and the honouring in the Lord known, the true humility lear<g ref="char:EOLhyphen"/>ned of Chriſt, who is not of the world, though it by him was made, who lighteth every man that cometh into the world, who is mans way out of it, which light is mans condemnation if he doth not believe in it: And the Relation which is in the world who hate light is in the luſt where the perverſnes is, in the love of the world, where the envy is, where the inven<g ref="char:EOLhyphen"/>tion is, ſelfiſhneſſe, croſſeneſſe, perverſneſſe, back-biting, ma<g ref="char:EOLhyphen"/>liciouſneſſe, filling with unrighteouſneſſe, yet they have a love, yet they have a Relation; now the light which comes from Chriſt, the beloved of God, where the love of God is recei<g ref="char:EOLhyphen"/>ved, the worlds Relation denyed, for the Relation of the world deſtroys and devoures, but the children of light, which be in the Relation out of the world, live in peace, unity, and fel<g ref="char:EOLhyphen"/>lowſhip, and comfort injoyed in the Holy Ghoſt. So all you that profeſſe Relation in word, and envy lodgeth in your heart againſt one another, and yet flatter one another to your faces, and back-bite one another behind the back, ſuch Rela<g ref="char:EOLhyphen"/>tions we doe deny, and have a witneſs in your own conſcience againſt it. And all that profeſſe Relation to one another, and love and friendſhip with the tongue, and in heart deceive one another, and cozen one another, and cheat one another, and lye and diſſemble one with another, all ſuch Relations we deny and have a witneſſe in your conſcience againſt it. And all ſuch as profeſſe Religion, or worſhip, or humility, righteouſneſſe and the Scripture, Chriſt and the Prophets words, and live out of their life, &amp; live in envy &amp; malice, &amp; yet profeſſe you have a Relation to Chriſt and God whom you have not ſeen, and you love him and doe not love them whom you have ſeen, ſuch Relations we doe deny. And all ſuch as cry up your experien<g ref="char:EOLhyphen"/>ces, high notions, your manifeſtations as you call them, diſ<g ref="char:EOLhyphen"/>penſations as you call them, and live in pride, ſtrife, and envy, debates, deriſion, ſcorne loftineſſe, high-mindedneſſe, be out of the light, and out of the way in <hi>Cains,</hi> and out of the pure Relation, we have a witneſſe in your conſcience againſt thoſe things, which lets you ſee what you poſſeſſe, and let you pro<g ref="char:EOLhyphen"/>feſſe no more if to it you hearken, which turns from the world and the Relations therein, for all who believe not the light
+<pb n="8" facs="tcp:168357:5"/>and are not to it come, have a love but it is in the world, and a Relation but it is in the world, which is enmity to God, ſo that relation which is enmity is denyed with the light, that love which is enmity is denyed with the light which leads to the pure Relation, the pure love which envies not, where the deſtroyer and devourer is rebuked.</p>
+            <p>YOu that be Magiſtrates which doe caſt Chriſt into priſon and will not viſit him when you have done, nor ſuffer his friends and bre<g ref="char:EOLhyphen"/>thren to viſit him in priſon, and there you keep him in priſon till he hunger and thirſt, and you priſon him as a vagabond, who hath no place to lay his head, ſick and in priſon and you viſit him nor: but the cor<g ref="char:EOLhyphen"/>ner ſtone is ſet up, and the rock of ages manifeſt, and him who bears the Government upon his ſhoulders, whoſe kingdome is without end, and dominion hath no end, which is an everlaſting dominion, which do<g ref="char:EOLhyphen"/>minion is over all dominions, whoſe Scepter is righteouſneſſe, whoſe Law royall ſtands over all, anſwereth that of God in all, and reſpects no mans perſon, but is holy, juſt, and righteous, perſect and good, whoſe Prieſthood is royall everlaſting that never changeth, who lighteth every man that cometh into the world, that men might believe and ſee the way out of the world, Chriſt the light, the way, the truth, who is the Covenant of light, of peace, and of life. Was not Chriſt crucified in <hi>So<g ref="char:EOLhyphen"/>dome</hi> and <hi>Gomorrah</hi> ſpiritually? and are not they <hi>Sodomites</hi> that impriſon him? and are not the <hi>Sodomites</hi> them that live in fulneſſe of bread, and idleneſſe, and the filthy converſation, which the righteous ſoul grieves and vexeth, which Chriſt is Shepheard of, and the Biſhop, who is a wit<g ref="char:EOLhyphen"/>neſſe in all conſciences which witneſſes againſt the luſts that war againſt the ſoul? Was not all the profeſſion of Chriſt before he was manifeſt in the fleſh, and when he was manifeſted in the fleſh, hypocriſie among them that profeſſe him in words and did not believe in him who was the light but caſt him into priſon, <hi>and he was ſick and they viſited him not, and was hungry and they fed him not, and he was naked and they cloathed him not,</hi> ſuch as neither knew his voyce, nor the Prophets that ſhewed the com<g ref="char:EOLhyphen"/>ing of him: and is not all the profeſſion of Chriſt now hypocriſy among them that profeſſe him in words and doe not believe in him who is the light that lighteth every man that cometh into the world, but caſt him into priſons, and holes, and dungeons, <hi>and he is ſick and you viſit him not, and hungry and you feed him not, and thirſty and you give him no drink, and na<g ref="char:EOLhyphen"/>ked and you cloath him not,</hi> but into priſon caſt him as a vagabond who hath no place to lay his head, <hi>The foxes have holes and the birds of the aire have neſts, but the Son of man hath no place to lay his head, Christ the ſame yeſterday to day and for ever.</hi> Therefore awake you Rulers and fear the Lord and hear the voyce of the Son of God that you may live, for now is Chriſt come to reign, the ſame that ever was, whom into priſon you doe caſt, and with your wills would not ſuffer him to reigne; but Chriſt will reign who is not borne by the will of man, who is King and rules, and now reignes in his Kingdome and dominion which is without end, and in his power &amp; in his fulnes, who filleth all things, &amp; thouſands of his fulneſſe have received, &amp; of his power, as many as have received him, to become the Sons of God. <hi>From them whom the world ſcornfully calls Quakers.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for <hi>T. Simmons</hi> at the Bull &amp; mouth near Alderſgate. 1656</p>
+         </div>
+      </back>
+   </text>
+</TEI>
